@@ -3,6 +3,12 @@
 - Arweave (AR) 
 - Akash Network 
 
+# Assets 
+
+- Filecoin Miners 
+- IP 
+- Arweave Rewards 
+
 # Watching 
 
 - Lukso Network (https://lukso.network/)
